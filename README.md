@@ -2,7 +2,7 @@
 
 **Automated Search for Noise-Robust Quantum Machine Learning Circuits**
 
-Projet de PFE expérimental consacré à l'évaluation et à la sélection de petits circuits variationnels pour la classification binaire. L'originalité éventuelle de la contribution reste à vérifier par une revue bibliographique : ce dépôt ne revendique pas de nouveauté scientifique établie.
+Projet expérimental consacré à l'évaluation et à la sélection de petits circuits variationnels pour la classification binaire. L'originalité éventuelle de la contribution reste à vérifier par une revue bibliographique : ce dépôt ne revendique pas de nouveauté scientifique établie.
 
 ## Problème scientifique
 
